@@ -15,6 +15,7 @@ git@github.com:goitacademy/wordpress-course-code.git
 5. Open `https://URL_HERE.local` in your browser
 6. Activate the `goit` theme in the admin panel
 7. Change the `goit` theme settings in the admin panel
+8. Run script `gulp` to start the project in `goit` folder
 
 
 ## 📜 Scripts
