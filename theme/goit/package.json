@@ -1,0 +1,40 @@
+{
+  "name": "goit",
+  "version": "1.0.0",
+  "description": "Starter Theme",
+  "main": "gulpfile.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goitacademy/wordpress-course-code.git"
+  },
+  "keywords": [
+    "goit"
+  ],
+  "dependencies": {
+    "@babel/preset-env": "^7.18.2"
+  },
+  "devDependencies": {
+    "cssnano": "^5.1.11",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^9.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify-es": "^3.0.0",
+    "merge2": "^1.4.1",
+    "sass": "^1.52.3"
+  },
+  "author": "Orlovskyi Oleksandr (empat.dev)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goitacademy/wordpress-course-code/issues"
+  },
+  "homepage": "https://github.com/goitacademy/wordpress-course-code#readme"
+}
