@@ -1,0 +1,18 @@
+$block: "example-block";
+
+.#{$block} {
+	// For frontend
+	&__title {
+		
+	}
+
+	// For admin panel
+	.wp-admin & {
+		
+	}
+
+	// Editor
+	.block-editor-inner-blocks {
+	
+	}
+}
